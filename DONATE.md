@@ -1,4 +1,6 @@
 # Donate
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 Thank you for donating, you really motivate me with this! 🤗❤️
 
 **Bitcoin:** `bc1q0htqhw9fxpajgaq6s56mm0qck6zfd74t3ny9uw`
