@@ -6,4 +6,4 @@
 
 🔐 My 4096 RSA: [*on keyserver.ubuntu.com*](http://keyserver.ubuntu.com:11371/pks/lookup?search=C1DB343F0B7824FC9C4677826E58854B345342D6&fingerprint=on&op=index) or [key.txt](./key.txt)
 
-💰 Donate: [DONATE.md](./DONATE.md)
+🍉 Donate: [DONATE.md](./DONATE.md)
